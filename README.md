@@ -1,18 +1,15 @@
-# ApexPlanet Data Analytics Internship Portfolio
+# ApexPlanet Data Analytics Internship - Task 4
 
-## About
+## Data Storytelling & Statistical Validation
 
-This repository showcases all the projects completed during my Data Analytics Internship at ApexPlanet Software Pvt. Ltd. The internship covered the complete data analytics workflow, from data cleaning and exploratory analysis to SQL querying, interactive dashboards, customer analytics, statistical validation, and business storytelling.
+### Objective
+The objective of this task is to transform analytical findings into meaningful business insights through data storytelling and validate key observations using statistical analysis.
 
 ---
 
-## Internship Overview
+## Project Overview
 
-Duration: 60 Days
-
-Role: Data Analytics Intern
-
-Organization: ApexPlanet Software Pvt. Ltd.
+This project combines insights from previous tasks to create a comprehensive business story and validate important findings using hypothesis testing.
 
 ---
 
@@ -21,89 +18,57 @@ Organization: ApexPlanet Software Pvt. Ltd.
 - Python
 - Pandas
 - NumPy
-- SQL
-- SQLite
-- Power BI
-- Jupyter Notebook
 - Matplotlib
-- Seaborn
-- Scikit-learn
+- SciPy
+- Jupyter Notebook
+- Power BI
 - Git & GitHub
 
 ---
 
-## Skills Gained
+## Workflow
 
-- Data Cleaning
-- Exploratory Data Analysis
-- SQL Queries
-- Data Visualization
-- Dashboard Development
-- Customer Segmentation
-- Cohort Analysis
-- Funnel Analysis
-- Statistical Validation
-- Business Storytelling
-- Hypothesis Testing
+- Reviewed insights from previous analysis.
+- Developed a business story based on analytical findings.
+- Identified key business problems and opportunities.
+- Performed statistical hypothesis testing.
+- Interpreted p-values and test results.
+- Provided data-driven business recommendations.
+- Prepared a professional presentation summarizing the project.
 
 ---
 
-## Internship Projects
+## Project Files
 
-### Task 1 – Data Cleaning & Exploratory Data Analysis
-
-- Cleaned raw sales data
-- Performed EDA
-- Created visualizations
-
-Repository:
-https://github.com/231b271roshani/ApexPlanet-DataAnalytics-Task1
+- `Hypothesis_Testing.ipynb`
+- `Data_Storytelling_Presentation.pptx`
+- `Dashboard.png`
+- `Cleaned_Sales_Dataset.csv`
 
 ---
 
-### Task 2 – SQL Analysis & Power BI Dashboard
+## Key Insights
 
-- Wrote SQL queries
-- Created business KPIs
-- Built an interactive Power BI Dashboard
-
-Repository:
-https://github.com/231b271roshani/ApexPlanet-DataAnalytics-Task2
-
----
-
-### Task 3 – Customer Analytics
-
-- Cohort Analysis
-- Funnel Analysis
-- Customer Segmentation using K-Means
-
-Repository:
-https://github.com/231b271roshani/ApexPlanet-DataAnalytics-Task3
+- Electronics generated the highest revenue.
+- Revenue varied across different cities and product categories.
+- Customer segmentation revealed distinct purchasing behaviors.
+- Cohort and funnel analyses provided insights into customer retention and conversion.
+- Statistical testing supported business conclusions with data.
 
 ---
 
-### Task 4 – Data Storytelling & Statistical Validation
+## Statistical Validation
 
-- Business Storytelling
-- Hypothesis Testing
-- Statistical Validation
-- Final Presentation
-
-Repository:
-https://github.com/231b271roshani/ApexPlanet-DataAnalytics-Task4
+- Defined Null and Alternative Hypotheses.
+- Conducted hypothesis testing using Python.
+- Calculated p-value and interpreted the results.
+- Confirmed findings with statistical evidence.
 
 ---
 
-## Key Learnings
+## Outcome
 
-Throughout this internship, I strengthened my knowledge of data analytics by working on real-world business datasets. I gained practical experience in Python, SQL, Power BI, statistical analysis, and data visualization. The internship enhanced my problem-solving abilities and taught me how to transform raw data into actionable business insights.
-
----
-
-## Conclusion
-
-This portfolio represents my complete learning journey during the ApexPlanet Data Analytics Internship and demonstrates my ability to perform end-to-end data analysis using industry-standard tools and techniques.
+This project demonstrates how data storytelling and statistical validation can transform raw data into meaningful business insights, supporting informed decision-making and strategic planning.
 
 ---
 
@@ -115,8 +80,4 @@ B.Tech – Computer Science & Engineering
 
 Jaypee University of Engineering & Technology, Guna
 
-LinkedIn:
-https://www.linkedin.com/
-
-GitHub:
-https://github.com/231b271roshani
+Data Analytics Intern – ApexPlanet Software Pvt. Ltd.
